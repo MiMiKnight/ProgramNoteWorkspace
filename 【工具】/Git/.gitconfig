@@ -52,7 +52,17 @@
 [mergetool]
 	prompt = true
 	# 合并产生冲突时不产生*.orig备份文件(true:生成;false:不生成)
-	keepBackup = false
+	keepBackup = true
 [mergetool "bc4"]
 	# 设置bc4 merge工具路径
 	path = D:/DevelopProgram/BeyondCompare/BeyondCompare_v4.4.2.26348/BComp.exe
+[gui]
+	fontui = -family Consolas -size 14 -weight normal -slant roman -underline 0 -overstrike 0
+	fontdiff = -family Consolas -size 14 -weight normal -slant roman -underline 0 -overstrike 0
+[http]
+	sslVerify = false
+[credential "helperselector"]
+	selected = manager-core
+[credential]
+	# 记住Git密码
+	helper = store
