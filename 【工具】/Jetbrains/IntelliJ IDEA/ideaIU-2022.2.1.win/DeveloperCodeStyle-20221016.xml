@@ -1,0 +1,11 @@
+<code_scheme name="Default" version="173">
+  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
+  <option name="ENABLE_SECOND_REFORMAT" value="true" />
+  <JavaCodeStyleSettings>
+    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99999" />
+    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99999" />
+  </JavaCodeStyleSettings>
+  <codeStyleSettings language="JAVA">
+    <option name="WRAP_LONG_LINES" value="true" />
+  </codeStyleSettings>
+</code_scheme>
