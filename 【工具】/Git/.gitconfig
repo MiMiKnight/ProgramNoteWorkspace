@@ -66,3 +66,5 @@
 [credential]
 	# 记住Git密码
 	helper = store
+[log]
+	date = iso8601

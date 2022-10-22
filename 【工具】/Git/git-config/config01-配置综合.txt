@@ -38,3 +38,6 @@ git config --global mergetool.keepBackup false
 
 ## 配置中文显示
 git config --global core.quotepath false
+
+# 配置log日期格式 年-月-日 时:分:秒 时区
+git config --global log.date iso8601
