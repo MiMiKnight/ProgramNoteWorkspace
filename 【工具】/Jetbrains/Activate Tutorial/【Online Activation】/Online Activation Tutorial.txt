@@ -1,0 +1,14 @@
+# 访问如下网址
+https://search.censys.io/
+
+# 搜索如下内容
+services.http.response.headers.location: account.jetbrains.com/fls-auth
+
+# 在搜索结果寻找类似如下网址
+http://134.53.225.196
+
+# 可用激活网址
+http://134.53.225.196
+http://43.153.35.11
+http://200.17.85.220
+http://52.137.14.60
